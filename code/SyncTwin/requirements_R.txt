@@ -1,0 +1,8 @@
+# Benchmarks implemented in R
+softImpute==1.4
+Synth==1.1
+
+# For plotting only
+ggplot2
+reshape2
+latex2exp

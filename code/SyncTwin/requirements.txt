@@ -1,0 +1,12 @@
+argparse; python_version < '3.2'
+# jupyterlab  # Optional, if you wish to run the jupyter notebooks.
+GPy>=1.9.9,<2  # For benchmarks
+matplotlib
+numpy>=1.18.5,<2
+pandas
+scipy>=1.4.1,<2
+scikit-learn>=0.23.2,<2
+tensorflow>=1.14.0,<2  # For benchmarks
+torch>=1.5.0,<2
+tqdm>=4,<5
+typing; python_version < '3.5'
