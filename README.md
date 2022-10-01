@@ -7,3 +7,5 @@ https://arxiv.org/abs/2209.08860
 /summary: Paper publication date, paper name, model abbreviation, core contribution points, architectures, source code links, categories to which they belong, model graphs and loss functions, etc.
 
 /code: Classic model source code (with datasets and models removed)
+
+/survey: Related review articles
