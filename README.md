@@ -1,4 +1,4 @@
-# A_Survey_of_Deep_Causal_Model
+# A Survey of Deep Causal Models and Their Industrial Applications
 
 https://arxiv.org/abs/2209.08860
 
