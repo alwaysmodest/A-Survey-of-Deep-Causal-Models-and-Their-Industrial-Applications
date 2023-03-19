@@ -1,6 +1,6 @@
 # A Survey of Deep Causal Models and Their Industrial Applications
 
-https://arxiv.org/abs/2209.08860
+https://www.researchsquare.com/article/rs-2689686/v1
 
 /paper: An overview detailing the model by name essay
 
@@ -8,4 +8,4 @@ https://arxiv.org/abs/2209.08860
 
 /survey: Related review articles
 
-正在修改中
+AI review在投
