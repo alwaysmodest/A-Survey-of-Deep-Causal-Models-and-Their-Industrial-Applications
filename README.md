@@ -8,4 +8,6 @@ https://www.researchsquare.com/article/rs-2689686/v1
 
 /survey: Related review articles
 
+毕业论文国内外研究现状
+
 AI review在投
