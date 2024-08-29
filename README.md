@@ -1,6 +1,6 @@
 # A Survey of Deep Causal Models and Their Industrial Applications
 
-https://www.researchsquare.com/article/rs-2689686/v1  Artificial Intelligence Review: has been accepted
+https://arxiv.org/abs/2209.08860  Artificial Intelligence Review: has been accepted
 
 /paper: An overview detailing the model by name essay
 
